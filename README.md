@@ -7,5 +7,6 @@ A.A. 2020-2021.
 
 ## Autori
 
-ex. Matteo Kolyszko
-ex. Sara Arizzi
+Luca Loddo
+Matteo Kolyszko
+Sara Arizzi
